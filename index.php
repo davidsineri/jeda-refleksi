@@ -1,3 +1,3 @@
 <?php
-echo "JEDA berjalan";
-
+header("Location: modules/kondisi.php");
+exit;
